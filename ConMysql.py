@@ -9,8 +9,8 @@ class ConMysql(object):  #the class of conn
         self.cursor = conn.cursor()
         self.conn = conn
 
-    def deleteSql(self, sqlStr):
-        self.cursor.execute(sqlStr)
+    def deletesql(self, sqlstr):
+        self.cursor.execute(sqlstr)
         self.conn.commit()
         self.cursor.close()
         self.conn.close()

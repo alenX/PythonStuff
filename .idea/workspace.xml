@@ -27,19 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Test.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
+            <state line="5" column="11" selection-start="85" selection-end="85" vertical-scroll-proportion="-0.05076142" vertical-offset="120" max-vertical-offset="520">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConMysql.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ConMysql.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConMysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="327" selection-end="327" vertical-scroll-proportion="0.5774278" vertical-offset="0" max-vertical-offset="420">
+            <state line="11" column="17" selection-start="303" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -59,8 +59,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/MysqlConn.py" />
-        <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/ConMysql.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
       </list>
     </option>
   </component>
@@ -351,7 +351,11 @@
       <created>1400815394518</created>
       <updated>1400815394518</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add class ConMysql">
+      <created>1400816287943</created>
+      <updated>1400816287943</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -523,16 +527,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
+    <entry file="file://$PROJECT_DIR$/ConMysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
+        <state line="11" column="17" selection-start="303" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConMysql.py">
+    <entry file="file://$PROJECT_DIR$/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="327" selection-end="327" vertical-scroll-proportion="0.5774278" vertical-offset="0" max-vertical-offset="420">
+        <state line="5" column="11" selection-start="85" selection-end="85" vertical-scroll-proportion="-0.05076142" vertical-offset="120" max-vertical-offset="520">
           <folding />
         </state>
       </provider>
