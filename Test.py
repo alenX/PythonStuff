@@ -1,8 +1,8 @@
 __author__ = 'wangss'
-
+#written for DB controller
 
 def test():
-    print()
+    print("")
 
 
 if __name__ == '__main__':
