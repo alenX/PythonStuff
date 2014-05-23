@@ -1,8 +1,11 @@
 __author__ = 'wangss'
 #written for DB controller
+from ConMysql import *
+
 
 def test():
-    print("")
+    sqlconn = ConMysql("localhost", "root", "1128", "test", "utf8")
+    sqlconn.deleteSql("DELETE FROM STUDENT WHERE ID=1")
 
 
 class Conn(object):
