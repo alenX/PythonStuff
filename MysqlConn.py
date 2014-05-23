@@ -7,7 +7,6 @@ def conn():
         conn = MySQLdb.connect(host="localhost", user="root", passwd="1128", db="test", charset="utf8")
         cursor = conn.cursor()
         count = cursor.execute("SELECT * FROM STUDENT")
-
         result = cursor.fetchmany(count)
         for i in result:
             for a in i:
