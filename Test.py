@@ -5,7 +5,7 @@ from ConMysql import *
 
 def test():
     sqlconn = ConMysql("localhost", "root", "1128", "test", "utf8")
-    sqlconn.deletesql("DELETE FROM STUDENT WHERE ID=1")
+    sqlconn.selectsql("select * from student where id=? and age = ?", 2, 5)
 
 
 class Conn(object):

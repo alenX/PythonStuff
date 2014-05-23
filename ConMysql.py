@@ -17,3 +17,17 @@ class ConMysql(object):
         self.conn.commit()
         self.cursor.close()
         self.conn.close()
+
+    def selectsql(self, sqlstr, *condition):
+        arr = sqlstr.split("?")
+        if len(arr) != len(condition) + 1:
+            return
+        rs = ""
+        for i in range(len(arr) - 1):
+            rs += arr[i] + str(condition[i])
+        count = self.cursor.execute(rs)
+        result = self.cursor.fetchmany(count)
+        for i in result:
+            for colu in i:
+                print colu
+

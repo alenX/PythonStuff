@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1675498-ec80-401e-b605-4cb0cf381918" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConMysql.py" afterPath="$PROJECT_DIR$/ConMysql.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.py" afterPath="$PROJECT_DIR$/Test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonStuff.iws" />
@@ -29,7 +30,16 @@
       <file leaf-file-name="Test.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+            <state line="11" column="21" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14259">
               <folding />
             </state>
           </provider>
@@ -38,19 +48,37 @@
       <file leaf-file-name="MysqlConn.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MysqlConn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="20" selection-start="419" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="588">
+            <state line="9" column="40" selection-start="283" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="588">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ConMysql.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConMysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="27" selection-start="477" selection-end="477" vertical-scroll-proportion="0.9060914" vertical-offset="0" max-vertical-offset="819">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1511" column="28" selection-start="31471" selection-end="31475" vertical-scroll-proportion="0.0" vertical-offset="31579" max-vertical-offset="51828">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="38" selection-start="62" selection-end="62" vertical-scroll-proportion="0.114754096" vertical-offset="0" max-vertical-offset="366">
+            <state line="2" column="38" selection-start="62" selection-end="62" vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="168">
               <folding />
             </state>
           </provider>
@@ -69,10 +97,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Test.py" />
-        <option value="$PROJECT_DIR$/ConMysql.py" />
-        <option value="$PROJECT_DIR$/MysqlConn.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/MysqlConn.py" />
+        <option value="$PROJECT_DIR$/ConMysql.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
       </list>
     </option>
   </component>
@@ -150,7 +178,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.MysqlConn">
+  <component name="RunManager" selected="Python.Test">
     <configuration default="false" name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,8 +342,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.MysqlConn" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MysqlConn" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +407,11 @@
       <created>1400833022661</created>
       <updated>1400833022661</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="read me">
+      <created>1400836787558</created>
+      <updated>1400836787558</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -387,14 +419,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20717423" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20717423" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -467,7 +499,8 @@
     <MESSAGE value="edit comment" />
     <MESSAGE value="add function comment" />
     <MESSAGE value="code formate" />
-    <option name="LAST_COMMIT_MESSAGE" value="code formate" />
+    <MESSAGE value="read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="read me" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -523,23 +556,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Python27/Lib/site-packages/MySQLdb/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="428" column="33" selection-start="14079" selection-end="14083" vertical-scroll-proportion="0.17368421" vertical-offset="8474" max-vertical-offset="10760">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
           <folding />
         </state>
       </provider>
@@ -558,26 +577,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConMysql.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="196" selection-end="196" vertical-scroll-proportion="0.3604061" vertical-offset="47" max-vertical-offset="504">
+        <state line="2" column="38" selection-start="62" selection-end="62" vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="168">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1511" column="28" selection-start="31471" selection-end="31475" vertical-scroll-proportion="0.0" vertical-offset="31579" max-vertical-offset="51828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1604" column="8" selection-start="35936" selection-end="35936" vertical-scroll-proportion="0.33248731" vertical-offset="33553" max-vertical-offset="42798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MysqlConn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="419" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="588">
+        <state line="9" column="40" selection-start="283" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="588">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="62" selection-end="62" vertical-scroll-proportion="0.114754096" vertical-offset="0" max-vertical-offset="366">
+        <state line="11" column="21" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="27" selection-start="477" selection-end="477" vertical-scroll-proportion="0.9060914" vertical-offset="0" max-vertical-offset="819">
           <folding />
         </state>
       </provider>
