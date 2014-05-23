@@ -1,5 +1,5 @@
 __author__ = 'wangss'
-import MySQLdb
+import MySQLdb  #the support for mysql
 
 
 def conn():

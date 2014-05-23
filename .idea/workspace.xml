@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1675498-ec80-401e-b605-4cb0cf381918" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MysqlConn.py" afterPath="$PROJECT_DIR$/MysqlConn.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,7 +38,7 @@
       <file leaf-file-name="MysqlConn.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MysqlConn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.16348773" vertical-offset="0" max-vertical-offset="580">
+            <state line="2" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.108991824" vertical-offset="0" max-vertical-offset="580">
               <folding />
             </state>
           </provider>
@@ -334,7 +333,11 @@
       <created>1400812878922</created>
       <updated>1400812878922</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="a test of mysql conn">
+      <created>1400814728102</created>
+      <updated>1400814728102</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -416,7 +419,8 @@
     <MESSAGE value="add content" />
     <MESSAGE value="used for db controller" />
     <MESSAGE value="python for mysql test" />
-    <option name="LAST_COMMIT_MESSAGE" value="python for mysql test" />
+    <MESSAGE value="a test of mysql conn" />
+    <option name="LAST_COMMIT_MESSAGE" value="a test of mysql conn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -505,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MysqlConn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.16348773" vertical-offset="0" max-vertical-offset="580">
+        <state line="2" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.108991824" vertical-offset="0" max-vertical-offset="580">
           <folding />
         </state>
       </provider>
