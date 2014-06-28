@@ -7,6 +7,7 @@ def isleapyear(year):  # 是否为闰年
 
 
 def getactdateby(date, term):
+    # 获取实际日期前n个月的日期
     year = date[0]
     month = date[1]
     day = date[2]

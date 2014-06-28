@@ -15,7 +15,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonStuff$getDate.coverage" NAME="getDate Coverage Results" MODIFIED="1403923684183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStuff$getDate.coverage" NAME="getDate Coverage Results" MODIFIED="1403934389894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStuff$NetConn.coverage" NAME="NetConn Coverage Results" MODIFIED="1401105286864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonParase" />
     <SUITE FILE_PATH="coverage/PythonStuff$Test.coverage" NAME="Test Coverage Results" MODIFIED="1401105225588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -79,8 +79,8 @@
       <file leaf-file-name="getDate.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/getDate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3716012" vertical-offset="485" max-vertical-offset="836">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state vertical-scroll-proportion="1.2296072" vertical-offset="239" max-vertical-offset="855">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -561,7 +561,11 @@
       <created>1403922401221</created>
       <updated>1403922401221</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="complete code">
+      <created>1403923749328</created>
+      <updated>1403923749328</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -656,7 +660,8 @@
     <MESSAGE value="add select method" />
     <MESSAGE value="add comment" />
     <MESSAGE value="get data before n months" />
-    <option name="LAST_COMMIT_MESSAGE" value="get data before n months" />
+    <MESSAGE value="complete code" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1081,8 +1086,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getDate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3716012" vertical-offset="485" max-vertical-offset="836">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state vertical-scroll-proportion="1.2296072" vertical-offset="239" max-vertical-offset="855">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
           <folding />
         </state>
       </provider>
