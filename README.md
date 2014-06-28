@@ -1,3 +1,3 @@
 PythonStuff
 ===========
-things written by python and the most important thing is that i like python
+things written by python, and the important thing is that i like python
