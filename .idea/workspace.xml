@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1675498-ec80-401e-b605-4cb0cf381918" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getDate.py" afterPath="$PROJECT_DIR$/getDate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SqlDeal.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonStuff.iws" />
@@ -43,21 +43,21 @@
       </file>
       <file leaf-file-name="LICENSE" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12901">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="MysqlConn.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MysqlConn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
+            <state vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="532">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="10" />
               <folding>
                 <marker date="1400833009427" expanded="true" signature="251:272" placeholder="SELECT * FRO..STUDENT..." />
@@ -69,18 +69,28 @@
       <file leaf-file-name="ConMysql.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConMysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
+            <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="741">
               <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getDate.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="getDate.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getDate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2296072" vertical-offset="239" max-vertical-offset="855">
-              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="855">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlDeal.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SqlDeal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09827586" vertical-offset="0" max-vertical-offset="580">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,14 +108,14 @@
       </file>
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="171">
               <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -130,6 +140,7 @@
         <option value="$PROJECT_DIR$/PythonParase/NetConn.py" />
         <option value="$PROJECT_DIR$/PythonParase/LoanDateCalc.py" />
         <option value="$PROJECT_DIR$/getDate.py" />
+        <option value="$PROJECT_DIR$/SqlDeal.py" />
       </list>
     </option>
   </component>
@@ -186,12 +197,21 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="PythonStuff" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.6 (E:/Python27/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -206,7 +226,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -565,7 +584,11 @@
       <created>1403923749328</created>
       <updated>1403923749328</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add comment">
+      <created>1403934447119</created>
+      <updated>1403934447119</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -575,7 +598,6 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -585,7 +607,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2364532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.408867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31691298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -598,6 +620,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -658,10 +681,10 @@
     <MESSAGE value="code formate" />
     <MESSAGE value="read me" />
     <MESSAGE value="add select method" />
-    <MESSAGE value="add comment" />
     <MESSAGE value="get data before n months" />
     <MESSAGE value="complete code" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete code" />
+    <MESSAGE value="add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,15 +692,34 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28709" max-vertical-offset="46911">
+          <caret line="1511" column="28" selection-start-line="1511" selection-start-column="28" selection-end-line="1511" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="171">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12901">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MysqlConn.py">
@@ -707,14 +749,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152">
           <caret line="2" column="75" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -726,14 +768,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12901">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MysqlConn.py">
@@ -763,14 +805,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152">
           <caret line="2" column="75" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -782,14 +824,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14259">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MysqlConn.py">
@@ -819,14 +861,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="168">
           <caret line="2" column="75" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -872,14 +914,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="168">
           <caret line="2" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -925,14 +967,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="168">
           <caret line="2" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -952,14 +994,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -1022,14 +1064,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
@@ -1049,14 +1091,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="171">
           <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-543320044/_socket.py">
@@ -1086,8 +1128,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getDate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2296072" vertical-offset="239" max-vertical-offset="855">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="855">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SqlDeal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09827586" vertical-offset="0" max-vertical-offset="580">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
