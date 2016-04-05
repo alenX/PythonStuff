@@ -13,8 +13,8 @@ for i in tomcat_dir:
     logs = log_path+'\\'+i+'\\logs'
     for root,dirs,files in os.walk(logs,topdown=False):
         for f in files:
-            if os.path.getsize(os.path.join(root,f))==0 or True:
+            if os.path.getsize(os.path.join(root,f))==0 or True:#delete all logs files when it is True
                 try:
                     os.remove(os.path.join(root,f))
                 except PermissionError:
-                    print('文件'+os.path.join(root,f)+'正在被使用!')
+                    print('File:'+os.path.join(root,f)+'is being used!')
